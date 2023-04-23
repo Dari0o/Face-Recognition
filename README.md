@@ -9,4 +9,4 @@ It detects frontal faces and takes a screenshot of the face only and saves it in
 Programm can be closed by pressing "q"
 
 
-I use it on my raspberry pi 4 with 2 gb ram and it works great. I also use a camera modell wich can change between normal recording and infrared. 
+I use it on my raspberry pi 4 with 2 gb ram and it works great. I also use a camera modell (5 megapixel 1080p) wich can change between normal recording and infrared. 

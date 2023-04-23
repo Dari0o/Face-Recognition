@@ -2,8 +2,11 @@
 
 !!!IMPORTANT!!! You need to change the path at the top of the code to where the .xml file is locatet!
 
-This program accesses the camera and saves a video. The video lenght can be adjusted so there wont be one big video file. the video file doesnt get deleted, it just gets cut of and there will be a new video file. (The old one doesnt get deleted)
+This program accesses the camera and saves a video. The recording of the old video file will stop and a new recording will start. I added this feature so there wont be one big video file.
 
-It detects frontal faces and takes a screenshot of the face only.
+It detects frontal faces and takes a screenshot of the face only and saves it in an extra folder.
 
 Programm can be closed by pressing "q"
+
+
+I use it on my raspberry pi 4 with 2 gb ram and it works great. I also use a camera modell wich can change between normal recording and infrared. 
